@@ -17,13 +17,12 @@ The goal of the puzzle is to slide the pieces on a 4×6 board so that the centra
 
 Below are simple illustrations showing the initial layout and the goal layout.
 
-Initial position:
-
-![Initial position](init.png)
-
-Goal position — the MID piece moves down to row 4:
-
-![Goal position](goal.png)
+<table align="center">
+<tr>
+<td><b>Initial position:</b><br><img src="assets/init.png" width="400"></td>
+<td><b>Goal position:</b><br><img src="assets/goal.png" width="400"></td>
+</tr>
+</table>
 
 ## How to run
 
