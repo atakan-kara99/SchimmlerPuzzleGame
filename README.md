@@ -40,7 +40,7 @@ python -m pip install pygame
 Run the game from the project root:
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 Notes:
